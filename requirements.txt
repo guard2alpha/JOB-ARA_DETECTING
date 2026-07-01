@@ -1,0 +1,2 @@
+megadetector
+opencv-python
